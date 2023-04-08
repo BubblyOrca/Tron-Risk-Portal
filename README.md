@@ -28,3 +28,10 @@ With every bull-run, there are billions in attacks lost in the blockchain indust
 - whitepaper validity (score)
 - roadmap (score)
 - volality (score)
+
+## Installation
+
+How to install and interact with the data portal
+
+1. Fork repository
+2. Install on local machine

@@ -35,3 +35,7 @@ How to install and interact with the data portal
 
 1. Fork repository
 2. Install on local machine
+
+ ```console
+ git clone https://github.com/
+```

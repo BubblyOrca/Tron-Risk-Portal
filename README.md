@@ -37,5 +37,5 @@ How to install and interact with the data portal
 2. Install on local machine
 
  ```console
- git clone https://github.com/
+ git clone https://github.com/BubblyOrca/Tron-Risk-Portal.git
 ```

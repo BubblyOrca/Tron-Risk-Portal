@@ -18,7 +18,7 @@ With every bull-run, there are billions in attacks lost in the blockchain indust
 - protocol security/privacy (whitepaper/liteppaper)
 - social media behavior
 - existence duration
-- chain
+- chain (TRON)
 - transaction speed (block height saturation)
 - amount of audits
 - quality of audits/auditors

@@ -10,5 +10,5 @@ LunarCrush is a data tool that enables researchers to derived social insights fr
 
 <!-- image -->
 <p align="center">
-  <img src="Demystifying-1.jpg" alt="" width="500" class="center" style="margin-left: 100px;"/>
+  <img src="TRX-10-influx.png" alt="" width="500" class="center" style="margin-left: 100px;"/>
 </p>
